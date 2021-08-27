@@ -1,5 +1,5 @@
 # BancoDeDados-UNICAMP
-Aluno: Victor Durço Gomes Bijos
-RA: 206508
+206508: Victor Durço Gomes Bijos
+
 
 
