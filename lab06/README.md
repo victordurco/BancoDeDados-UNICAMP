@@ -1,12 +1,4 @@
-# Modelo para Apresentação do Lab06 - Artigo de Dataset Público
-
-Estrutura de pastas:
-
-~
-├── README.md  <- arquivo apresentando a tarefa
-│
-└── images     <- arquivos de imagem usados na tarefa (se houver)
-~
+# Lab06 - Artigo de Dataset Público
 
 # Aluno
 * `206508`: `Victor Durço Gomes Bijos`
