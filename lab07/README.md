@@ -10,6 +10,6 @@
 
 > Liste aqui as três perguntas de pesquisa/análise
 >
-> - Pergunta 1
-> - Pergunta 2
-> - Pergunta 3
+> - Quais os principais estudios de cada gênero?
+> - Quais os filmes com maior abrangência de gêneros?
+> - Quais os estudios mais isolados de cada país?
